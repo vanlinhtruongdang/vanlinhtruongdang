@@ -2,7 +2,8 @@
  👨‍🎓 I'm a K16 student of University of Information and Technology - VNUHCM. <br/>
  🌐 I'm studying Computer Networking and Data Communication. <br/>
  💻 IOT Machine Learning is my orientation. <br/>
- 🏐 Volleyball is such a wonderfull sport!
+ 🏐 Volleyball is such a wonderfull sport! <br/>
+ ❌ I'm not a WjBu! But I'm a big fan of Dragon Ball 
 # HAVE ANY QUESTION, DON'T HESITATE TO CONTACT ME 😁
  * Email: vanlinh.1942003@gmail.com
  * Phone: 091.1474.871
