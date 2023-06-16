@@ -25,8 +25,8 @@
 
 
 <!--Intro start-->
-<a target="_blank" align="center">
-  <img align="right" top="10" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a target="_blank" align="center" right="100">
+  <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
