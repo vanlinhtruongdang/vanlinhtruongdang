@@ -25,6 +25,9 @@
 
 
 <!--Intro start-->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
 
 - 🌱 I’m currently learning **Computer Networking and Data Communication.**
@@ -34,10 +37,6 @@
 - 🏐 Volleyball is such a **wonderfull sport!**
 
 - ❌ I'm not a WjBu! But I'm a big fan of ** Dragon Ball **
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 <!--Intro end-->
 
