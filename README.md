@@ -43,8 +43,6 @@
 
 - ❌ I'm not a WjBu! But I'm a big fan of **Dragon Ball.**
 
-- 🌞 Minh Minh always shines in **my heart.**
-
 <!--Intro end-->
 
 <br><br>
