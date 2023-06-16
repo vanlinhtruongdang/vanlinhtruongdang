@@ -35,6 +35,7 @@
 
 - ❌ I'm not a WjBu! But I'm a big fan of ** Dragon Ball **
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h3>
 <!--Intro end-->
 
 ![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
