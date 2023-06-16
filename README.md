@@ -25,9 +25,8 @@
 
 
 <!--Intro start-->
-
 <a target="_blank" align="center">
-  <img align="right" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" right = "100" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
@@ -39,9 +38,7 @@
 - 🏐 Volleyball is such a **wonderfull sport.**
 
 - ❌ I'm not a WjBu! But I'm a big fan of ** Dragon Ball.**
-
 <!--Intro end-->
-
 <br/>
 
 ![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
