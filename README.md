@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Van Linh Truong Dang</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋 I'm Van Linh Truong Dang</h1></summary>
   </ul>
 </div>
 
@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+<br><br>
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
 
 - 🌱 I’m currently learning **Computer Networking and Data Communication.**
