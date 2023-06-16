@@ -58,7 +58,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,arduino,godot,vscode,linux,pr&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,pytorch,tensorflow,arduino,godot,stackoverflow,vscode,linux,pr,ai,ps,githubdiscord&perline=14" />
   </a>
 </p>
 
