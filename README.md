@@ -47,7 +47,7 @@
 
 <br><br>
 [![MurazeKrinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="user-content-toc">
   <ul align="center">
