@@ -46,7 +46,7 @@
 <!--Intro end-->
 
 <br><br>
-![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
+[![MurazeKrinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![MurazeKrinas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)
 
 <div id="user-content-toc">
