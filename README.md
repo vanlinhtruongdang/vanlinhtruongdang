@@ -17,17 +17,21 @@
 
 
 <!--h2 without bottom border-->
-<br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Persist Without Fear of Failure</h2></summary>
   </ul>
 </div>
 
+<p align="center">
+	<a href="vanlinh.1942003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/MurazeKrinas"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.facebook.com/Vanlinh.UITK16"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/vanlinh_1904/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 <!--Intro start-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
 
 - 🌱 I’m currently learning **Computer Networking and Data Communication.**
@@ -40,7 +44,7 @@
 
 <!--Intro end-->
 
-<br><br>
+<br>
 
 ![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
