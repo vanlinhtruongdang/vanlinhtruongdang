@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
+<br>
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
 
 - 🌱 I’m currently learning **Computer Networking and Data Communication.**
