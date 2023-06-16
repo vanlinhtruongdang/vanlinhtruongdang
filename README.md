@@ -37,6 +37,10 @@
 
 <!--Intro end-->
 
+![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![MurazeKrinas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -45,7 +49,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,py,godot,vscode,linux,pr&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,arduino,godot,vscode,linux,pr&perline=14" />
   </a>
 </p>
 
