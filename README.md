@@ -47,6 +47,14 @@
 
 <br><br>
 ![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+        <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
 ![MurazeKrinas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)
 	
 <div id="user-content-toc">
