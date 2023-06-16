@@ -17,6 +17,7 @@
 
 
 <!--h2 without bottom border-->
+<br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Persist Without Fear of Failure</h2></summary>
