@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 <a target="_blank" align="center">
-  <img align="right" left="100" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
@@ -45,7 +45,6 @@
 
 ![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![MurazeKrinas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)
 
 <div id="user-content-toc">
   <ul align="center">
