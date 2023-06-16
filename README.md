@@ -46,10 +46,8 @@
 <!--Intro end-->
 
 <br><br>
-<div scale="2">
 ![MurazeKrinas's github stats](https://github-readme-stats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-</div?
+![MurazeKrinas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)
 	
 <div id="user-content-toc">
   <ul align="center">
