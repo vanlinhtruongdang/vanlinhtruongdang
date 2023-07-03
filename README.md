@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc", align="center">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋 I'm Van Linh Truong Dang</h1></summary>
   </ul>
@@ -17,7 +17,7 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc", align="center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Persist Without Fear of Failure</h2></summary>
   </ul>
@@ -49,7 +49,7 @@
 [![MurazeKrinas's GitHub stats](https://readmes-tats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://readmes-tats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="user-content-toc">
+<div id="user-content-toc", align="center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
