@@ -11,8 +11,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
 </div>
 
 
@@ -25,7 +26,7 @@
 
 <p align="center">
 	<a href="mailto:vanlinh.1942003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/MurazeKrinas"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/vanlinhtruongdang"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.facebook.com/Vanlinh.UITK16"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/vanlinh_1904/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -46,8 +47,8 @@
 <!--Intro end-->
 
 <br><br>
-[![MurazeKrinas's GitHub stats](https://readmes-tats.vercel.app/api?username=MurazeKrinas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readmes-tats.vercel.app/api/top-langs/?username=MurazeKrinas&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![vanlinhtruongdang's GitHub stats](https://readmes-tats.vercel.app/api?username=vanlinhtruongdang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readmes-tats.vercel.app/api/top-langs/?username=vanlinhtruongdang&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="user-content-toc", align="center">
   <ul align="center">
