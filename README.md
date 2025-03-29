@@ -4,7 +4,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc", align="center">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋 I'm Van Linh Truong Dang</h1></summary>
+    <summary>
+      <h1 align="center"><b>Hi , I'm Van Linh Truong Dang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    </summary>
   </ul>
 </div>
 
@@ -16,50 +18,26 @@
   </a>
 </div>
 
-
 <!--h2 without bottom border-->
-<div id="user-content-toc", align="center">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Persist Without Fear of Failure</h2></summary>
-  </ul>
-</div>
-
 <p align="center">
-	<a href="mailto:vanlinh.1942003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/vanlinhtruongdang"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/Vanlinh.UITK16"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/vanlinh_1904/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Persist+Without+Fear+of+Failure"></a>
 </p>
 
-<!--Intro start-->
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
-- 🔭 I'm a K16 student of **University of Information and Technology - VNUHCM.**
-
-- 🌱 I’m currently learning **Computer Networking and Data Communication.**
-
-- ☁️ I've keen interest in **AIoT, Machine Learning and Deep Learning**
-
-- 🏐 Volleyball is such a **wonderfull sport.**
-
-- ❌ I'm not a WjBu! But I'm a big fan of **Dragon Ball.**
-
-<!--Intro end-->
-
-<br><br>
-[![vanlinhtruongdang's GitHub stats](https://readmes-tats.vercel.app/api?username=vanlinhtruongdang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readmes-tats.vercel.app/api/top-langs/?username=vanlinhtruongdang&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div id="user-content-toc", align="center">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+<div align="center" width=auto height=500>
+  <img align="left" width=45% height=auto src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <div align="right" width=55% height=auto>
+    <img align="center" height=50% src="https://github-readm-git-186505-van-linh-truong-dangs-projects-762f2e0a.vercel.app/api?username=vanlinhtruongdang&card_width=450&show_icons=true&theme=gotham"/>
+    <br></br>
+    <img align="center" height=50% src="https://github-readm-git-186505-van-linh-truong-dangs-projects-762f2e0a.vercel.app/api/top-langs/?username=vanlinhtruongdang&card_width=450&&theme=gotham"/>
+  </div>
 </div>
-<!--tech stack icons-->
-<p align="center">
+
+<br></br>
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,pytorch,tensorflow,arduino,godot,stackoverflow,vscode,linux,pr,ai,ps,githubdiscord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,pytorch,tensorflow,arduino,docker,stackoverflow,vscode,linux,&perline=11" />
   </a>
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
